@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @SteffiTu
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning to be somewhat of an Software Developer
-- 💞️ I’m looking to collaborate on many things
-- 📫 How to reach me: I don't know myself, maby subarashii@freenet.de
 - ⚡ Fun fact: It's not a Fun fact, it's a fact I'm a total ✨ noob ✨
 
 <!---
